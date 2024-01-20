@@ -45,7 +45,7 @@ function(){
         $("#favicon").attr("href","assests/images/favicon.jpg");
     }
     else {
-        document.title = "Come Back To Portfolio";
+        document.title = "Portfolio | Aditya Patil";
         $("#favicon").attr("href","assests/images/favhand.png");
     }
 });
@@ -53,7 +53,7 @@ function(){
 
 // <!-- typed js effect starts -->
     var typed = new Typed(".typing-text", {
-        strings: ["Full stack developer", "Technical Head '23", "Android developer", "Web developer", "Finalist and Team Leader at SIH'22","Gammer", " UI\UX Designer","T & P Coordinator 2023-24"],
+        strings: ["Meta-verse Engineer","Full Stack Developer", "Android Developer", "Web Developer","Data Scientist", " UI-d:\D drive w 11 aditya\w11 data 1\D\study material\Resume\Aditya Patil.pdfUX Designer","Finalist and Team Leader at SIH'22"],
         loop: true,
         typeSpeed: 50,
 		backSpeed: 25,
@@ -98,15 +98,15 @@ document.onkeydown = function(e) {
 }
 
 // Start of Tawk.to Live Chat
-//var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-  //(function(){
-  //var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-  //s1.async=true;
-  //s1.src='https://forms.gle/gQJgazujJLE8wiMg7';
-  //s1.charset='UTF-8';
-  //s1.setAttribute('crossorigin','*');
-  //s0.parentNode.insertBefore(s1,s0);
- // })();
+// var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+//   (function(){
+//   var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+//   s1.async=true;
+//   s1.src='https://forms.gle/gQJgazujJLE8wiMg7';
+//   s1.charset='UTF-8';
+//   s1.setAttribute('crossorigin','*');
+//   s0.parentNode.insertBefore(s1,s0);
+//  })();
 // End of Tawk.to Live Chat
 
 
