@@ -53,7 +53,7 @@ function(){
 
 // <!-- typed js effect starts -->
     var typed = new Typed(".typing-text", {
-        strings: ["Meta-verse Engineer","Full Stack Developer", "Android Developer", "Web Developer","Data Scientist", " UI-d:\D drive w 11 aditya\w11 data 1\D\study material\Resume\Aditya Patil.pdfUX Designer","Finalist and Team Leader at SIH'22"],
+        strings: ["Meta-verse Engineer","Full Stack Developer", "Android Developer", "Web Developer","Data Scientist", " UI-UX Designer","Finalist and Team Leader at SIH'22"],
         loop: true,
         typeSpeed: 50,
 		backSpeed: 25,
