@@ -211,7 +211,7 @@ header .navbar ul li a:hover{
   z-index: 0;
 }
 .home .image img{
-  width: 75%;
+  width: 100%;
   margin-left: 0rem;
   
   cursor: pointer;
